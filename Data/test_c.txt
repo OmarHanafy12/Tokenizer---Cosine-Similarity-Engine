@@ -1,0 +1,2 @@
+The operating system handles hardware resource allocation and manages process execution states.
+It utilizes scheduling algorithms to ensure that the central processing unit switches tasks efficiently without data corruption.

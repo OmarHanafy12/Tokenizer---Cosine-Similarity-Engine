@@ -1,0 +1,2 @@
+Modern software engineering is being transformed by artificial intelligence. Many developers use language models to automate repetitive tasks and speed up development cycles.
+ This allows engineers to dedicate their time to high-level design patterns and system architecture.

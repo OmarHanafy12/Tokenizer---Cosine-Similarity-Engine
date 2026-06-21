@@ -1,0 +1,2 @@
+Artificial intelligence is transforming modern software engineering.
+ Developers are adopting language models to automate repetitive coding tasks and accelerate project cycles. This shift enables engineers to focus entirely on system architecture and high-level design patterns.
